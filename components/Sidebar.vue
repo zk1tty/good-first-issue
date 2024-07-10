@@ -32,30 +32,15 @@
     <div class="pt-6">
       <a
         class="bg-juniper hover:bg-light_juniper text-ink-400 uppercase rounded-md font-bold text-center px-1 py-3 flex flex-row items-center justify-center space-x-1"
-        href="https://github.com/deepsourcelabs/good-first-issue#adding-a-new-project"
+        href="https://tally.so/r/3N0LZN"
         target="_blank"
         rel="noopener noreferrer"
         >
-          <PlusCircleIcon class="h-5 w-5 stroke-2" />
-          <span>Add your project</span>
-        </a
-      >
-    </div>
-
-    <div class="text-sm pt-6">
-      <a
-        class="flex flex-row justify-center items-center"
-        target="_blank"
-        rel="noopener noreferrer"
-        href="https://deepsource.com?ref=gfi"
-      >
-        <HeartIcon class="w-4 h-4 text-cherry" />
-        <span class="ml-2"
-          >A
-          <span class="inline hover:underline text-juniper" title="Visit DeepSource website">DeepSource</span>
-          initative</span
-        >
-      </a>
+        <PlusCircleIcon class="h-5 w-5 stroke-2" />
+        <span>
+          Add your project
+        </span>
+        </a>
     </div>
   </section>
 </template>
