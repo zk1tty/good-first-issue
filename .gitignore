@@ -26,6 +26,6 @@ logs
 __pycache__
 
 # Generated data files
-data/generated.json
-data/tags.json
+# data/generated.json
+# data/tags.json
 content/language/*.md
