@@ -1,4 +1,5 @@
 repositories = [
   'github.com/huggingface/transformers',
-  'github.com/weaviate/weaviate'
+  'github.com/weaviate/weaviate',
+  'github.com/paritytech/polkadot-sdk'
  ]
